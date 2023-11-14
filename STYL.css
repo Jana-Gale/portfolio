@@ -44,3 +44,11 @@ footer img:hover {
 iframe {
     width: 100%;
 }
+
+.projects-card {
+    height: 550px;
+}
+
+.evc-img {
+    height: 300px;
+}
