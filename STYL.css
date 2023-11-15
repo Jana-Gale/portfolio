@@ -52,3 +52,7 @@ iframe {
 .evc-img {
     height: 300px;
 }
+
+.item .card img {
+    height: 300px;
+}
